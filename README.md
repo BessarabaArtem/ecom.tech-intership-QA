@@ -1,4 +1,4 @@
-Здравствуйте!
+## Здравствуйте!
 
 В этом репозитории выполненное тестовое задание для Ecom.tech на позицию стажера AQA Python.
 
@@ -20,17 +20,10 @@
    pip install requests playwright
    ```
 Запуск автотестов производится благодаря командам:
-`python api_tests.py`
-`python ui_tests.py`
-
-Структура репозитория:
-ecom.tech-intership-QA/
-├── README.md
-├── requirements.txt
-├── .gitignore
-├── manual_tests.txt
-├── api_tests.py
-└── ui_tests.py
+```bash
+python api_tests.py
+python ui_tests.py
+```
 
 
 P.S. Надеюсь вам понравится, я старался)
